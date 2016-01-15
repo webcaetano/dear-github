@@ -45,6 +45,7 @@ Signed,
 - Adam Bradley ([@adamdbradley](https://github.com/adamdbradley)), maintainer of Ionic
 - Addy Osmani ([@addyosmani](https://github.com/addyosmani)), maintainer of TodoMVC
 - Andreas Tolfsen ([@andreastt](https://github.com/andreastt)), maintainer of Selenium
+- Andre Caetano ([@webcaetano](https://github.com/webcaetano)), maintainer of Phaser Boilerplate
 - Andrew Sampson ([@codeusa](https://github.com/codeusa)), maintainer of Borderless-Gaming
 - Ariya Hidayat ([@ariya](https://github.com/ariya)), maintainer of PhantomJS
 - Ashley Williams ([@ashleygwilliams](https://github.com/ashleygwilliams)), Developer Community Manager, npm
@@ -72,7 +73,6 @@ Signed,
 - Nicholas C. Zakas ([@nzakas](https://github.com/nzakas)), maintainer of ESLint
 - Nicolás Bevacqua ([@bevacqua](https://github.com/bevacqua)), maintainer of `dragula`
 - Pascal Hartig ([@passy](https://github.com/passy)), maintainer of TodoMVC
-- Paul Miller ([@paulmillr](https://github.com/paulmillr)), maintainer of Brunch
 - Rashiq Ahmad ([@rashiq](https://github.com/rashiq)), a maintainer of Kiwix
 - Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
 - Ryan Cavanaugh ([@searyanc](https://github.com/RyanCavanaugh)), maintainer of TypeScript
